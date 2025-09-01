@@ -9,4 +9,4 @@ Added a service "DuplicateService" that inherits the IDuplicate interface. It ta
 Added scoped Iduplicate and DuplicateService to the builder
 
 
-Copilot: Used for explaining to me how to edit a 
+Copilot: Used for explaining how to find a databse entry with an ID and how to edit and add it back to the database.
